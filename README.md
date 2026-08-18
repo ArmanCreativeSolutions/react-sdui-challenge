@@ -57,6 +57,6 @@ Add a file named "ai.md" to your project. This file should contain the following
 1. What AI tools and models did you use?
 2. Explain the different stages of software development where you used AI help. Describe how you used your tools at each stage.
 3. We want to know how you prompt. So add your prompts to this file too. For each prompt, explain which stage you used it in, how you evaluated the result, and what you did to fix any misbehavior.
-4 Explain how you monitor your token usage and what you do to manage it. Link your tools or add your helper prompts.
+4. 4 Explain how you monitor your token usage and what you do to manage it. Link your tools or add your helper prompts.
 
 *There's a sample.ai.md file in the project representing the expected template. Don't forget: "ai.md" is the only file we expect you to write entirely by yourself.*
